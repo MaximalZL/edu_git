@@ -92,7 +92,7 @@ Markdown поддерживает упорядоченные и неупоряд
 ```
 
 Пример:
-![](https://i.ytimg.com/vi/ObWbcBsoCNU/maxresdefault.jpg)
+![](https://1.bp.blogspot.com/-jaQQ7nb7UFs/YE1ZnKjAInI/AAAAAAAAARs/AuiokX7SRj06y7fypNuKnaViKZSoinGkwCLcBGAsYHQ/s1000/Markdown_cover.png)
 
 ## Заключение
 
